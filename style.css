@@ -2,11 +2,13 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
 }
-
-body {
-    background-color: rgb(233, 154, 154);
+body{
+    background-color: blueviolet;
+}
+main {
+    background-color: rgb(241, 241, 241);
     width: 500px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 3px rgb(245, 239, 237);
+    padding: 100px;
+    box-shadow: 3px 3px 3px rgb(4, 3, 3);
 }
